@@ -1,0 +1,128 @@
+REFRIDGERATORS
+
+-----------------------------------------------------------
+SRC_1_INFO - https://www.danfoss.com/en-in/about-danfoss/our-businesses/cooling/the-fridge-how-it-works/
+
+Refrigerators work by causing the refrigerant circulating inside them to change from a liquid into a gas.
+This process, called evaporation, cools the surrounding area and produces the desired effect. 
+
+You can test this process for yourself by taking some alcohol and putting a drop or two on your skin.
+As it evaporates, you should feel a chilling sensation - the same basic principle gives us safe food storage. 
+
+To start the evaporation process and change the refrigerant from liquid to gas, 
+the pressure on the refrigerant needs to be reduced through an outlet called the capillary tube.
+
+The effect is similar to what happens when you use an aerosol product such as hair spray. 
+The contents of an aerosol can is the pressure/liquid side, the outlet is the capillary tube, 
+and the open space is the evaporator.
+When you release the contents into the lower pressure open space, it turns from a liquid to a gas.
+
+To keep a refrigerator running, you need to be able to get the gaseous refrigerant back to its liquid state, 
+so the gas needs to be compressed to a higher pressure and temperature again, This is where the compressor comes in. 
+
+As mentioned earlier, the compressor provides a similar effect to that of a bike pump. 
+You can sense the heat increase in the pump while you pump and compress the air.
+
+Once the compressor has done its work, the gas should be under high pressure and hot. It needs to be cooled in the condenser, 
+which is mounted on the back of the refrigerator, so its contents can be cooled by the ambient air. 
+When the gas cools off inside the condenser (still under high pressure), it changes back into a liquid.
+
+Then, the liquid refrigerant circulates back to the evaporator where the process starts all over again. 
+
+
+Refrigerator's main components
+
+Compressor
+The compressor is the "heart" of a refrigerator. It circulates the refrigerant throughout the system and adds pressure to the warm part of the circuit, and makes the refrigerant hot. It's similar to when you are pumping air into a bicycle tube - you can sense a heat increase in the pump while you compress the air.
+
+Condenser
+The condenser sits on the back of a refrigerator, and is likely quite dusty. Inside, the refrigerant is cooled down and condenses, meaning it turns from a gas back into a liquid.
+
+Evaporator
+The evaporator is located inside a refrigerator and is the part that makes the items in the refrigerator cold. As the refrigerant turns from a liquid into a gas through evaporation, it cools the area around it, producing the proper environment for storing food.
+ 
+Capillary tube
+The capillary tube is a thin piece of tubing that serves as an expansion device. The liquid refrigerant is routed through the capillary tube and sprayed into the low-pressure environment of the evaporator.
+
+Thermostat
+The thermostat controls the cooling process by monitoring the temperature and then switching the compressor on and off. When the sensor senses that it's cold enough inside a refrigerator, it turns off the compressor. If it senses too much heat, it switches the compressor on and begins the cooling process again.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SRC_2_INFO - https://www.realsimple.com/food-recipes/tools-products/appliances/how-does-refrigerator-work
+
+1. The compressor constricts the refrigerant vapor, raising its pressure, and pushes it into the coils on the outside of the refrigerator.
+
+2. When the hot gas in the coils meets the cooler air temperature of the kitchen, it becomes a liquid.
+
+3. Now in liquid form at high pressure, the refrigerant cools down as it flows into the coils inside the freezer and the fridge.
+
+4. The refrigerant absorbs the heat inside the fridge, cooling down the air.
+
+5. Last, the refrigerant evaporates to a gas, then flows back to the compressor, where the cycle starts all over. 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SRC_3_INFO - https://www.youtube.com/watch?v=7NwxMyqUyJw
+
+Vapor compressor cycle 
+
+Refridgerators work on a simple principle of passing a cold liquid around the object.
+
+Throttling Device(Capillary Tube is used) 
+- This produces a cold liquid 
+- It obstructs liquid flow and drops the pressure which drops the boiling point 
+- the refrigent liquid evaporates 
+- energy for the evaporation comes from the liquid 
+- so the liquid's temp. drops 
+- temp. across the throttling device has a big difference.
+
+Commonly used Refrigerant liquid 
+- r134a - Tetrafluoroethane(hydrofluorocarbon[HFC]) 
+- HFCs are better than CFCs they dont deplete the ozone layer
+
+evaporator 
+- Now from the throttling device the liquid is passed through the body which cools the things stored in fridge
+
+Compressor 
+- It increases the pressure of the liquid back to normal 
+- with the increase in pressure temperature also increases 
+
+Condensor 
+- The condenser sits on the back of a refrigerator
+- the refrigerant is cooled down and condenses, 
+- it turns from a gas back into a liquid. 
+- It releases heat.
+
+
+refrigerant --> throttling device --> evaporator --> compressor --> condensor --> throttling device
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SRC_4_INFO -  https://www.youtube.com/watch?v=EIP3pSio7-M
+
+-When liquid evaporates it absorbs heat - thus cools things 
+-When liquid condeses it realeases heat 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
